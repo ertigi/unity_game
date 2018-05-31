@@ -1,0 +1,3123 @@
+fileFormatVersion: 2
+guid: 7392296bf02af934cadd6ca649e6c61b
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+    21300002: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+    21300004: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+    21300006: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_3
+    21300008: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_4
+    21300010: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_5
+    21300012: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_6
+    21300014: Mario_big
+    21300016: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_8
+    21300018: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_9
+    21300020: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_10
+    21300022: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_11
+    21300024: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_12
+    21300026: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_13
+    21300028: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_14
+    21300030: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_15
+    21300032: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_16
+    21300034: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_17
+    21300036: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_18
+    21300038: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_19
+    21300040: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_20
+    21300042: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_21
+    21300044: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_22
+    21300046: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_23
+    21300048: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_24
+    21300050: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_25
+    21300052: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_26
+    21300054: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_27
+    21300056: Mario_walk_1
+    21300058: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_29
+    21300060: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_30
+    21300062: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_31
+    21300064: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_32
+    21300066: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_33
+    21300068: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_34
+    21300070: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_35
+    21300072: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_36
+    21300074: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_37
+    21300076: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_38
+    21300078: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_39
+    21300080: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_40
+    21300082: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_41
+    21300084: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_42
+    21300086: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_43
+    21300088: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_44
+    21300090: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_45
+    21300092: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_46
+    21300094: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_47
+    21300096: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_48
+    21300098: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_49
+    21300100: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_50
+    21300102: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_51
+    21300104: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_52
+    21300106: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_53
+    21300108: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_54
+    21300110: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_55
+    21300112: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_56
+    21300114: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_57
+    21300116: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_58
+    21300118: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_59
+    21300120: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_60
+    21300122: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_61
+    21300124: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_62
+    21300126: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_63
+    21300128: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_64
+    21300130: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_65
+    21300132: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_66
+    21300134: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_67
+    21300136: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_68
+    21300138: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_69
+    21300140: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_70
+    21300142: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_71
+    21300144: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_72
+    21300146: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_73
+    21300148: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_74
+    21300150: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_75
+    21300152: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_76
+    21300154: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_77
+    21300156: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_78
+    21300158: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_79
+    21300160: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_80
+    21300162: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_81
+    21300164: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_82
+    21300166: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_83
+    21300168: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_84
+    21300170: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_85
+    21300172: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_86
+    21300174: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_87
+    21300176: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_88
+    21300178: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_89
+    21300180: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_90
+    21300182: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_91
+    21300184: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_92
+    21300186: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_93
+    21300188: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_94
+    21300190: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_95
+    21300192: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_96
+    21300194: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_97
+    21300196: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_98
+    21300198: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_99
+    21300200: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_100
+    21300202: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_101
+    21300204: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_102
+    21300206: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_103
+    21300208: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_104
+    21300210: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_105
+    21300212: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_106
+    21300214: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_107
+    21300216: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_108
+    21300218: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_109
+    21300220: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_110
+    21300222: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_111
+    21300224: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_112
+    21300226: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_113
+    21300228: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_114
+    21300230: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_115
+    21300232: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_116
+    21300234: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_117
+    21300236: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_118
+    21300238: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_119
+    21300240: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_120
+    21300242: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_121
+    21300244: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_122
+    21300246: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_123
+    21300248: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_124
+    21300250: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_125
+    21300252: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_126
+    21300254: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_127
+    21300256: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_128
+    21300258: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_129
+    21300260: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_130
+    21300262: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_131
+    21300264: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_132
+    21300266: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_133
+    21300268: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_134
+    21300270: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_135
+    21300272: 1
+    21300274: Mario_stand
+    21300276: Mario_walk_2
+    21300278: Mario_stand
+    21300280: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_28
+    21300282: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_137
+    21300284: Mario_walk_3
+    21300286: Mario_jump
+    21300288: Mario_jump
+    21300290: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_138
+    21300292: Mario_wak_3
+    21300294: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_136
+  externalObjects: {}
+  serializedVersion: 5
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - serializedVersion: 2
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  - serializedVersion: 2
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 630
+        width: 139
+        height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 204b3869636787c4c940f5048e626faf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 676
+        width: 139
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 851ebbfb882784b4eadb48b7c06b8184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_2
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 683
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d5357b9d2d6dfc4bb09578c3dcce435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_3
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 696
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3c3ed64575f1346bb947c0d744198f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_4
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 684
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05af9e5bd1a2e384b8c58277c8b2c8b0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_5
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 689
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd51c9017a335b4999426fbc019becd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 696
+        width: 254
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 829156d5a6c3e78428d9e7b39569ac04
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_big
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 602
+        width: 56
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 163fe1b57f3fd3b45afc6f400e4e21ed
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_8
+      rect:
+        serializedVersion: 2
+        x: 235
+        y: 599
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ed6a74db2016bb418549179e5c76082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_9
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 599
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 149f58d8024d0164c88a9118b1bcc243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_10
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 624
+        width: 217
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74ad43d0d36a9a5489139f26367f940c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_11
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 570
+        width: 109
+        height: 109
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7bda20cb8130e64f844d3fa17e6cdda
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_12
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 590
+        width: 133
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaa4d4d959571834b9429f03f6b6942a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_13
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 653
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e099c8c5c6dfbb44998ed05defe7a440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_14
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 642
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c52a96e5320172348a6edf6ad2ec99b6
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_15
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 564
+        width: 119
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e053e870b63dde4f9f94f7c9214b20d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_16
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0ba3b9ae59961f489e5d5c2bf2b6fd2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_17
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 612
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f880325bb61afe489b225cb76447187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_18
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 618
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ebfcccf00c0d29b4e9085c4c1d2b3a70
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 604
+        width: 197
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9acf8e34362823548928790436a0da2e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_20
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 552
+        width: 157
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61b1af50fc5b55243b83544bb0b63955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_21
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 552
+        width: 50
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39dde571780263b4bb23674648f485b7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 554
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f660558e8a9ba2e4cade557360bc0d05
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_23
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 536
+        width: 45
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 063b960fde41405429819d335492eef1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 574
+        width: 24
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9cb767d7bd08694f935560309734ae3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_25
+      rect:
+        serializedVersion: 2
+        x: 859
+        y: 573
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47e1ceebfd416464f904136049d41925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_26
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 573
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 75210a9a4e9f442408cfd1fdff4f11f8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_27
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 580
+        width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ee4fabef8142d547893ef96bdc22ff8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_28
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 477
+        width: 36
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783c95e337aac1949a84b5262bd3261b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_29
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 479
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1378bb50bdf9234588aa50a3f90673b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_30
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 486
+        width: 99
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a289ad1c0f83c5a4285718a8a5a33374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_31
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 486
+        width: 237
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96a801713f784444dac38aa7f9d5dff9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_32
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 485
+        width: 32
+        height: 61
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 569a5775de0e29b44b67a5249bae4cd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_33
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c0208a749b1e7b43920f74f5d1e070c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_34
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 401
+        width: 235
+        height: 157
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88744a9823fb5e44bc6610d8aabaae0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_35
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 529
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a636fee74fb5a40a032febc26618bd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_36
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 535
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b214d32a76f976b4784eae3b4e92178f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 496
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42e220a20d356db42b89442c8a0a17c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_38
+      rect:
+        serializedVersion: 2
+        x: 890
+        y: 502
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4219a7476cfd084479fb1d091c601de8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_39
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 505
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2e0907dc4aea66a4eae1d75d3926efb0
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_40
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 503
+        width: 36
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5add3c3c23b8bf42b08bd98f0c7da06
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_41
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 440
+        width: 118
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94fbfbe9e3e353343b3ead8904d9c345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_42
+      rect:
+        serializedVersion: 2
+        x: 355
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2ed3d79c61c2cd438fb95fa4f86e1f1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_43
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 440
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 089859afc5da9904abe729952915b00d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_44
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 401
+        width: 196
+        height: 79
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f60556f897ea2bd438cf4dc6fb6cdcd4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_45
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 469
+        width: 32
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: de6eb5a7187693f489ca0ad24f632e69
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_46
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 347
+        width: 64
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baf9a38805ad4464695318523434a82d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 388
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b764fe2d7e7a2b45ad05301da6acb7c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_48
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 425
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d7e73b03cf32d2468dbdae9917d236d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_49
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 289
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f267ba4d33a44a4ba4b728fb00074fb
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_50
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 391
+        width: 96
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f9e088a69faa3a94683f9938ff477d42
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_51
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 347
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3faa401c1f81904d831813b3ea0211f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_52
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 393
+        width: 30
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b91a6b171144fd248852fe254717e762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_53
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 339
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a5e5a7e11ef3084e9839d0925d52bab
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_54
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ea84c9c1be4729478e10a13e38f588f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_55
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 704fc959a82790542ae76de31d2810ef
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 391
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 437fa8a38f7eddc4cbab78c3ad6d746b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_57
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 355
+        width: 96
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d487f0da34c3fe046a0e50b625efade8
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_58
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 343
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 653463490dfa3de4aa4f9173cf13badf
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_59
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4e92a2ed7d29874490ac51dfaf664d7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_60
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8ef6968be64040a46bf06224fc655c8a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_61
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c158cff651294da40871cd5396e0e1f5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_62
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 360
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7898bab93f10fa4f90e4a8d7e503595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_63
+      rect:
+        serializedVersion: 2
+        x: 467
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9aca5e1047bf874da57d46309e47bec
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_64
+      rect:
+        serializedVersion: 2
+        x: 508
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb4db37f4a0b9454098421c94d7057cc
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_65
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 353
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73c156a087a57544e8cd102d6379eaad
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_66
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf353b65da14f1f4399716b6928c0166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_67
+      rect:
+        serializedVersion: 2
+        x: 619
+        y: 362
+        width: 10
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98011ec8f02772d48895cce88e4a0009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_68
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d92fa02bf1f695449e3104c43ba4a9f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_69
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 001cc28e68961554da04d7630822a025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_70
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a63439d0e4475f4395a1d1e73dda172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_71
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69982520a846815468aaa2fb8dfe1605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_72
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad08be81e930fe043b8ce60a1d7d6a48
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_73
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46e99f6f0bbf19346923e9f8e44eac72
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_74
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83993b1714e2e1f46939e9f20822fc8c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_75
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 362
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c362ff5be8d264a999578ee9d7a970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_76
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 357
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4a7486b00291e647bb6153fd640d7f7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_77
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 268
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0743e7dc324532d4b9013e89a7a0b82c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_78
+      rect:
+        serializedVersion: 2
+        x: 94
+        y: 271
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76d603a544930ce46953cd5adae1887d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_79
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e304088465b900e48ad7f0be9c137545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_80
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 299
+        width: 25
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b346da2706ed54bb5e387a1f0a4de3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_81
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 299
+        width: 24
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6ef383369088c0499c7c3f6f868296d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_82
+      rect:
+        serializedVersion: 2
+        x: 250
+        y: 302
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd3a9cc4657109647855162815ec1977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_83
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 302
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a6b2056fcc10284fa58024b37b70f51
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_84
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 302
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce6249f6f59eb3543afccd87f3cf2ef5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_85
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 302
+        width: 11
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5340b0fb0c9f74a4d9447f209331284f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_86
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b078468ae41a26b4d828a2e64bd45628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_87
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f42e91f687ce054fb78bfe896a09346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_88
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 268
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69cce546d2ec7ae46a2a547006770b1e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_89
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da18c3b700ffd9348ba28edfc463bb86
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_90
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 314
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fbd2b93e6595b448edcfefa6955fb5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_91
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 314
+        width: 30
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5af3559792e9bbe4ca05ba39700a642e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_92
+      rect:
+        serializedVersion: 2
+        x: 707
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b7cc2d88336be1499317ac89c87d10a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_93
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 139a87f2fbf77e54dad29087b9289ee9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_94
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f7771ad0a17a574abbf85d90cb944dd
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_95
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ebbf7a42713e44091476ad88d1f83c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_96
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 289
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c02573e157049d498f8a0c9be201d45
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_97
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 316
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2693a342ed1415047b7734a49dc80173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_98
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 253
+        width: 92
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6366066da193f64428d1281824b2b23c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_99
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 278
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264ff7dee6d71d14cb4de03d4d887bd1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_100
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d435a88077003c246bd470ff4349feb4
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_101
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 288
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bd885ab48473bc4ea01dce4a999d79a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_102
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 294
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c2571f163a3a5b41aecb2fce0ef5ab3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_103
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 223
+        width: 39
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6fd5b8a09031714a97a4a917a84c919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_104
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 244
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 208a5f712578f2040b2184d3b546f5d1
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_105
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 234
+        width: 44
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b9a1e8af1008c941af69ddeb9965fa2
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_106
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 150
+        width: 115
+        height: 127
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c44ef30624db3a4783bd05811b2c5d3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_107
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 260
+        width: 16
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105b07e2ac76f064f90951132ed10e34
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_108
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 21
+        width: 90
+        height: 237
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f24a2b9cd99104e41a40a9ea3fd7f1e5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_109
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 123
+        width: 373
+        height: 125
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1316dbf8819ec9b4599e79c825e0094c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_110
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 161
+        width: 178
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c9aadaa35729d4d9f7c00b2564cf79
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_111
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 227
+        width: 28
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af808d6c263c5524eba06180218c185b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_112
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 177
+        width: 41
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ce857f1b65e61e4eacbd3d7d91ec302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_113
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 194
+        width: 13
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8578681bae97bd429f2fd0cdcba47c7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_114
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 185
+        width: 75
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0fa4e7bc2093b80408a1a148bf7fefd3
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_115
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 194
+        width: 71
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4338fd8d148ae7d4dbe6a0b1ad7eb1b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_116
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 178
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5ddb40485b0a324eb7871d3578ece2c
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_117
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 178
+        width: 71
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a1478d358fc1ab43986146d307b94ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 63
+        width: 44
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c25b234b8cec1b8499caab9e5e946c9e
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_119
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 64
+        width: 46
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 87f481d4ea973f94ba00a49b1779f25d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_120
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 108
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76be09f0b9941d6469c1941dd2efbe19
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_121
+      rect:
+        serializedVersion: 2
+        x: 607
+        y: 104
+        width: 102
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b3a93a985de410b4e953558e3824a0e7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_122
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 78
+        width: 29
+        height: 60
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5c50108da57bcb42a1d7b180a1d52a7
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_123
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 60
+        width: 59
+        height: 82
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1e9f9aadd3576243a53f755b0e87f11
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_124
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 109
+        width: 26
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3aa1f6606a633e44afd625d75ff2ac9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_125
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 98
+        width: 69
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af4ed49fad4880f4c9958ab43af77a00
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_126
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 61
+        width: 43
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03659dcbf54ba6b4fbf51b1acd0b1bca
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_127
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 64
+        width: 35
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4629a6165774e1408efe56ed2eb5131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_128
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5541934ad46f74d4f80daa740b5dc22b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_129
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 37d2a95fc43b07540b0c16c5916bc7b9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_130
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 571907c9d67adda49aea5009b583cfc5
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_131
+      rect:
+        serializedVersion: 2
+        x: 456
+        y: 72
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7143712b3a5b83644b469d62391f026f
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_132
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 34
+        width: 60
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0421b6f547209fc4eab4e7bbfbc27d82
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_133
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 34
+        width: 42
+        height: 68
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1174ee28ec5d7ee4cbd8d0ae25d97111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_134
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 35
+        width: 57
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 077cab3b52eab5f4ba1574db90cccc96
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_135
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 60
+        width: 35
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 882d9a4787a171a4dbe69a9fc29f51f9
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_jump
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 478
+        width: 34
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe55597974ffbb43931d1606f2e3d1a
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_137
+      rect:
+        serializedVersion: 2
+        x: 357
+        y: 685
+        width: 70
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2cf8e20a509dd7b4eb4cde3af721a5ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_138
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 388
+        width: 92
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c3902e20f4b5c24b956fefbd9ebb23d
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_stand
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 516
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 2, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7aa74506273b3f4a908b008e5add186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_walk_1
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 477
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e46a3d8b22e3b844880f08fbaf97762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_walk_2
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 477
+        width: 30
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 790f1bd695de10a4390bff8378e327ff
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Mario_wak_3
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 477
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ed7c4171dba003f4fa370e78de12443b
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: some_mario_stuff_and_more_by_pokekoks-d4wzrc5_136
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 531
+        width: 26
+        height: 112
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2c32e31b308bf094b955649252b13eba
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 20445e998d6e11f4da0cfd996762dc05
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
